@@ -28,6 +28,6 @@
 ---
 
 ### 🔗 Contact & Links
-- 🗒 [Notion Portfolio](https://bit.ly/4b5LLFc)
+- 🌁 [Notion Portfolio](https://bit.ly/4b5LLFc)
 - 🔗 [LinkedIn](www.linkedin.com/in/hansik-kim-2920623a2)
 - 📧 Email: jordan6163@naver.com
