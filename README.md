@@ -27,12 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![khsik's GitHub stats](https://github-readme-stats.vercel.app/api?username=khsik6163&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khsik6163&layout=compact&theme=transparent)
-
----
-
 ### 🔗 Contact & Links
 - 🗒 [Notion Portfolio](https://bit.ly/4b5LLFc)
 - 🔗 [LinkedIn](www.linkedin.com/in/hansik-kim-2920623a2)
